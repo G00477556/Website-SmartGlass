@@ -1,0 +1,446 @@
+	
+	
+	
+	
+	
+	/*Font*/
+	
+	body {
+        font-family: "Montserrat", Verdana, sans-serif;
+      }
+	  
+	  
+	  
+	  
+	  
+	/*Navbar*/
+	
+	.navbar {
+		position: fixed;
+		width: 100%;
+		z-index:2;
+	}
+	
+	.navbar-collapse li a{ 
+		text-align: center;
+	}
+	
+	.nav.navbar-nav li a {
+    color: black;
+	}
+	
+	.navbar-toggle {
+	background-color: #f8f8f8;
+	}
+	
+	.icon-bar {
+	background-color: #000000;
+	}
+	
+	.navbar-center {
+    left: 50%;
+    transform: translateX(-50%);
+	}
+	
+	.navbar-right {
+		float: right !important;
+	}
+	
+	.IndexTitle{
+		padding: 350px 0px 600px 0px;
+	}
+	
+	.about_text_end {
+		padding: 0px 0px 70px 0px;
+	}
+	
+	.navbar-nav > li > a {
+    font-size: clamp(11px, 1.2vw, 15px);
+	}
+	
+	.navbar-brand{
+		padding: 0px 0px 0px 0px;
+	}
+	
+	
+	
+	
+	
+	
+	/*Padding out elements*/
+	
+	.About{
+		padding: 0px 0px 60px 0px;
+	}
+	
+	.Information-Blurb {
+		padding: 100px 0px 200px 0px;
+		
+	}
+	
+	.Information-Blurb h4{
+		padding: 0px 0px 0px 80px;
+		
+	}
+	
+	.Information-Blurb p{
+		padding: 0px 0px 0px 80px;
+		
+	}
+	
+	.Team{
+		padding: 20px 0px 200px 0px;
+		
+	}
+	
+	.col-md-6{
+		padding: 0px 0px 0px 150px;
+	}
+	
+	.Carousel1 {
+		padding: 10px 0px 0px 0px;
+		
+	}
+	
+	.Carousel1 h2{
+		font-size: 70px;
+		padding: 60px 0px 60px 0px;
+		
+	}
+	
+	
+	
+	
+	
+	
+	/*Title text Home*/
+	
+	.Title-text {
+		color: white;
+		font-size:  clamp(16px, 2.5vw, 25px);;
+		
+	}
+	
+	.Index-title{
+		font-size: 80px;
+		padding: 0px 0px 70px 0px;
+		
+	}
+	
+	.About-title{
+		font-size: 80px;
+		color: white;
+	}
+	
+	
+	.Information-Blurb h1{
+		font-size: 80px;
+		margin-bottom: 70px;
+	}
+	
+	.Information-Blurb h2{
+		font-size: 35px;
+		text-align: left;
+		padding: 0px 0px 0px 0px;
+	}
+	
+	.Information-Blurb p{
+		padding: 0px 0px 0px 0px;
+		text-align: left;
+		margin-bottom: 20px;
+		font-size: 20px;
+	}
+	
+	.col-lg-6{
+		padding: 0px 0px 0px 60px;
+	}
+	
+	
+	.Products {
+		padding: 0px 0px 30px 0px;
+	}
+	
+	.Products2 {
+		padding: 0px 0px 100px 0px;
+	}
+	
+	.Products-title{
+		font-size: 80px;
+		padding: 50px 0px 50px 0px;
+	}
+	
+	.Products h3  {
+		padding: 0px 0px 0px 10px;
+	}
+	
+	.Products p  {
+		padding: 0px 0px 0px 10px;
+	}
+	
+	
+	.btn-primary {
+		background-color: #000000;
+		border-color: #000000;
+	}
+
+	.btn-primary:hover,
+	.btn-primary:focus,
+	.btn-primary:active,
+	.btn-primary:active:focus {
+		background-color: #000000;
+		border-color: #FFFFFF;
+		box-shadow: none;
+	}
+	
+	.about_text_end p{
+		text-align: center;
+	}
+	
+	#project1,
+	#project2,
+	#project3,
+	#project4,
+	#project5,
+	#project6	{
+		margin-bottom: 30px;
+	}
+	
+	
+	/*Images Home */
+	
+	#room1 img {width:360px; height: 170px}
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	#room1 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	#room2 img {width:360px; height: 170px}
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	#room2 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	#room3 img {width:360px; height: 170px}
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	#room3 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	
+	
+	
+	#project1 img 
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	
+	#project1 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	
+	#project2 img 
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	
+	#project2 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	
+	#project3 img 
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	
+	#project3 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	footer {
+		text-align: center;
+	}
+	
+	#project1,
+#project2,
+#project3 {
+    margin-bottom: 30px;
+}
+
+	
+	/*Carousel*/
+	
+	.Carousel1{
+		padding: 0px 0px 170px 0px;
+	}
+	
+	.carousel-inner > .item > img,
+	.carousel-inner > .item > a > img {
+		margin: 0 auto;
+	}
+	
+	.carousel-caption {
+		background: rgba(0,0,0,0.4);
+		padding: 10px;
+		border-radius: 8px;
+	}
+
+	.carousel-caption h3 {
+		font-size: clamp(18px, 3vw, 32px);
+	}
+
+	.carousel-caption p {
+		font-size: clamp(14px, 2vw, 18px);
+	}
+	
+	
+	
+	
+	
+	
+	
+	/*About Page*/
+	
+	.AboutTitle{
+		padding: 300px 0px 300px 0px;
+		color: white;
+	}
+	
+	.AboutMain-title{
+		font-size: 80px;
+	}
+	
+	.AboutInfoCompany {
+		padding: 60px 0px 160px 0px;
+	}
+	
+	
+	
+	.AboutInfoCompany p {
+		padding: 0px 60px 0px 0px;
+	}
+	
+	.AboutInfoCompany img {
+		padding: 0px 60px 40px 0px;
+		max-width: 100%;
+		width: 900px;  
+		height: 100%;
+	}
+	
+	.GlobalCapacity{
+		padding: 50px 0px 200px 0px;
+	}
+	
+	.GlobalCapacity h1{
+		font-size: 50px;
+		margin-bottom: 50px;
+	}
+	
+	.GlobalCapacity ul {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 20px;
+		padding: 0;
+		list-style: none;
+	}
+
+	.GlobalCapacity .item {
+		width: calc(33.333% - 20px);
+	}
+	
+	@media (max-width: 768px) {
+	.GlobalCapacity ul {
+		grid-template-columns: 1fr;
+		}
+	}
+	
+	.GlobalCapacity ul{
+		padding: 0px 0px 0px 100px;
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	/*Contact*/
+	
+	.ContactTitle{
+		padding: 100px 200px 50px 0px;
+	}
+	
+	
+	
+	.contact_form{
+		padding: 100px 0px 450px 0px;
+	}
+	
+	
+	
+	ul {
+	list-style-type: none;
+	}
+	
+	
+	
+	
+	/*Signup and Login*/
+	
+	.signupbtn {
+		background-color: #000000;
+	}
+	
+	.loginbtn {
+		background-color: #000000;
+	}
