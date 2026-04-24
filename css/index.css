@@ -170,6 +170,8 @@
 	}
 	
 	
+	
+	
 	.btn-primary {
 		background-color: #000000;
 		border-color: #000000;
@@ -297,8 +299,8 @@
     max-width: 100%;  
     margin: 0 auto;
 	}
-
-#project4 img {
+	
+	#project4 img {
     display: block;
     width: 100%;   
     height: auto;  
