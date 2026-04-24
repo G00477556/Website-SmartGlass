@@ -305,6 +305,54 @@
     max-width: 100%;  
     margin: 0 auto;
 	}
+
+#project4 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	
+	#project4 img 
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	#project5 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	
+	#project5 img 
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
+	
+	#project6 img {
+    display: block;
+    width: 100%;   
+    height: auto;  
+    max-width: 100%;  
+    margin: 0 auto;
+	}
+	
+	
+	#project6 img 
+	
+	.responsive {
+		width: auto;
+		height: auto;
+	}
 	
 	footer {
 		text-align: center;
